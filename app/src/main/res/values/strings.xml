@@ -1,0 +1,66 @@
+<resources>
+
+    <string name="app_name">SmartCar</string>
+    <string name="wifiOn">wifi on</string>
+    <string name="wifiOff">wifi off</string>
+    <string name="title_activity_button">Button</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="arrayAction">
+        <item>前进</item>
+        <item>后退</item>
+        <item>左转</item>
+        <item>右转</item>
+        <item>停止</item>
+        <item>拍照</item>
+    </string-array>
+
+    <string-array name="motorArrayAction">
+        <item>前进</item>
+        <item>后退</item>
+        <item>光照</item>
+        <item>分贝</item>
+        <item>磁力计</item>
+        <item>加X轴</item>
+        <item>加Y轴</item>
+        <item>加Z轴</item>
+        <item>指南针</item>
+    </string-array>
+
+    <string-array name="cmdAction">
+        <item>顺序</item>
+        <item>循环</item>
+    </string-array>
+
+    <string-array name="sensor">
+        <item>距离</item>
+        <item>环境光</item>
+        <item>音强</item>
+        <item>磁力计</item>
+        <item>加速计X轴</item>
+        <item>加速计Y轴</item>
+        <item>加速计Z轴</item>
+        <item>指南针</item>
+    </string-array>
+
+    <string-array name="operator">
+        <item>==</item>
+        <item>&#62;</item>
+        <item>&#60;</item>
+    </string-array>
+
+    <string-array name="logical">
+        <item>and</item>
+        <item>or</item>
+    </string-array>
+
+    <string name="title_menu_graphics">小车编程</string>
+    <string name="title_menu_motor">步进电机编程</string>
+    <string name="title_menu_joystick">摇杆模式</string>
+    <string name="title_menu_add">添加</string>
+    <string name="title_menu_preview">预览</string>
+    <string name="title_menu_run">运行</string>
+    <string name="title_menu_switch">切换</string>
+    <string name="title_menu_home">主页</string>
+
+</resources>

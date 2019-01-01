@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_graphics" android:title="@string/title_menu_graphics"  app:showAsAction="never"/>
+    <item android:id="@+id/menu_motor" android:title="@string/title_menu_motor" app:showAsAction="never"/>
+    <item android:id="@+id/menu_joystick" android:title="@string/title_menu_joystick"  app:showAsAction="never"/>
+    <item android:id="@+id/menu_sensor" android:title="观察传感器" app:showAsAction="never"/>
+</menu>

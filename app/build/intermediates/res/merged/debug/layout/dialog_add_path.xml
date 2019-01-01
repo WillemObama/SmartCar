@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="指令"
+            android:textSize="20sp" />
+
+        <Spinner
+            android:id="@+id/spCmd"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:entries="@array/cmdAction"
+            android:textColor="#ff1d1d1d" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_action"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="动作"
+            android:textSize="20sp" />
+
+        <Spinner
+            android:id="@+id/spAction"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:entries="@array/arrayAction"
+            android:textColor="#ff1d1d1d" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_len"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="时间"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/txtTrLen"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:hint="秒"
+            android:inputType="number|numberDecimal"
+            android:maxLines="1"
+            android:paddingLeft="12dp"
+            android:textColor="#ff1d1d1d"
+            android:textColorHint="#ff666666">
+
+            <requestFocus />
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_degree"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="时间"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/txtTrDegree"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:hint="秒"
+            android:inputType="number|numberDecimal"
+            android:maxLines="1"
+            android:paddingLeft="12dp"
+            android:textColor="#ff1d1d1d"
+            android:textColorHint="#ff666666"></EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_step"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="次数"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/txtStep"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:inputType="number"
+            android:maxLines="1"
+            android:paddingLeft="12dp"
+            android:textColor="#ff1d1d1d"
+            android:textColorHint="#ff666666" >
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btnAdd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_btn_1"
+            android:text="确定"
+            android:textColor="#ffffff" />
+
+        <Button
+            android:id="@+id/btnCancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_btn_1"
+            android:text="取消"
+            android:textColor="#ffffff" />
+    </LinearLayout>
+
+</LinearLayout>

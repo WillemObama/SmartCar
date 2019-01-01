@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="@string/title_menu_switch"
+        android:id="@+id/menu_switch"
+        android:icon="@mipmap/baseline_cached_white_48"
+        app:showAsAction="always"/>
+
+    <item android:title="@string/title_menu_home"
+        android:id="@+id/menu_home"
+        app:showAsAction="never"/>
+
+</menu>

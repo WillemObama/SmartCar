@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="110dp"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/monitorImg"
+        android:layout_width="80dp"
+        android:layout_height="45dp"
+        android:background="@color/motorAction0"
+        android:layout_gravity="right"/>
+
+    <TextView
+        android:id="@+id/monitorTxt"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="光照"
+        android:textColor="#FFFFFF"
+        android:textSize="17sp"
+        android:layout_marginEnd="15dp"
+        android:gravity="right|center_vertical"/>
+
+</FrameLayout>

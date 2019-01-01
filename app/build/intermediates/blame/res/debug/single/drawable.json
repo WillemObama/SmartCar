@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dot_action_4.xml",
+        "source": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\src\\main\\res\\drawable\\bg_dot_action_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_sensor_title.xml",
+        "source": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\src\\main\\res\\drawable\\bg_sensor_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\magnetometer.png",
+        "source": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\src\\main\\res\\drawable\\magnetometer.png"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_condition_bottom.xml",
+        "source": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\src\\main\\res\\drawable\\bg_condition_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_condition_top.xml",
+        "source": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\src\\main\\res\\drawable\\bg_condition_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_sensor_item.xml",
+        "source": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\src\\main\\res\\drawable\\bg_sensor_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\accy.png",
+        "source": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\src\\main\\res\\drawable\\accy.png"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dot_action_8.xml",
+        "source": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\src\\main\\res\\drawable\\bg_dot_action_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dot_action_5.xml",
+        "source": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\src\\main\\res\\drawable\\bg_dot_action_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\accx.png",
+        "source": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\src\\main\\res\\drawable\\accx.png"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dot_action_7.xml",
+        "source": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\src\\main\\res\\drawable\\bg_dot_action_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_logical_operator.xml",
+        "source": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\src\\main\\res\\drawable\\bg_logical_operator.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dot_condition.xml",
+        "source": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\src\\main\\res\\drawable\\bg_dot_condition.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\decibel.png",
+        "source": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\src\\main\\res\\drawable\\decibel.png"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dot_action_6.xml",
+        "source": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\src\\main\\res\\drawable\\bg_dot_action_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ambient.png",
+        "source": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\src\\main\\res\\drawable\\ambient.png"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_condition_middle.xml",
+        "source": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\src\\main\\res\\drawable\\bg_condition_middle.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\accz.png",
+        "source": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\src\\main\\res\\drawable\\accz.png"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\compass_meter.png",
+        "source": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\src\\main\\res\\drawable\\compass_meter.png"
+    }
+]

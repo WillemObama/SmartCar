@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="motorAction0">#8F1C6A</color>
+    <color name="motorAction1">#C22A03</color>
+    <color name="motorAction2">#DF7708</color>
+    <color name="motorAction3">#73B917</color>
+    <color name="motorAction4">#FFDE03</color>
+    <color name="motorAction5">#0336FF</color>
+    <color name="motorAction6">#FF0266</color>
+    <color name="motorAction7">#55FF43</color>
+    <color name="motorAction8">#33AF95</color>
+</resources>

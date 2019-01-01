@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <Spinner
+        android:id="@+id/spinnerLogical"
+        android:layout_width="wrap_content"
+        android:layout_height="26dp"
+        android:entries="@array/logical">
+
+    </Spinner>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="26dp"
+        android:background="@drawable/bg_logical_operator"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <Spinner
+            android:id="@+id/spinnerSensor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:entries="@array/sensor"
+            android:textColor="#ff1d1d1d">
+
+        </Spinner>
+
+        <TextView
+            android:id="@+id/txtOperator"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text=">"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/txtValue"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_value_0"
+            android:gravity="center"
+            android:text="10"
+            android:textColor="#f50057" />
+
+    </LinearLayout>
+
+</LinearLayout>

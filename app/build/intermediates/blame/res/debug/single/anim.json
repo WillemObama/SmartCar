@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\anim\\enlargeanimation.xml",
+        "source": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\src\\main\\res\\anim\\enlargeanimation.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\anim\\narrowanimation.xml",
+        "source": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\src\\main\\res\\anim\\narrowanimation.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\anim\\chartview_rotation.xml",
+        "source": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\src\\main\\res\\anim\\chartview_rotation.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\11304\\Desktop\\SmartCar\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\11304\\.android\\build-cache\\610c6e17783f1623e435b2d5a606049851ed7550\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]

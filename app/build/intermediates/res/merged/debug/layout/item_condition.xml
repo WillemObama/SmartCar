@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <Spinner
+        android:id="@+id/spinnerLogical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:entries="@array/logical"
+        android:textColor="#f50057"
+        android:visibility="gone">
+
+    </Spinner>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/bg_logical_operator">
+
+        <Spinner
+            android:id="@+id/spinnerSensor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:entries="@array/sensor"
+            android:textColor="#ff1d1d1d"
+            android:layout_marginTop="8dp">
+
+        </Spinner>
+
+        <Spinner
+            android:id="@+id/spinnerOperator"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:entries="@array/operator"
+            android:textSize="16sp"
+            android:layout_marginTop="8dp"/>
+
+        <EditText
+            android:id="@+id/txtValue"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:background="@drawable/bg_value_0"
+            android:inputType="number"
+            android:singleLine="true"
+            android:text="10"
+            android:textColor="#f50057" />
+
+    </LinearLayout>
+
+</LinearLayout>

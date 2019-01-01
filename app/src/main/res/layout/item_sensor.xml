@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_sensor_item"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/titleBackground"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/bg_sensor_title"
+        android:layout_margin="8dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+
+        <ImageView
+            android:id="@+id/imageSensor"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="30dp"
+            android:src="@drawable/ambient"/>
+
+
+        <TextView
+            android:id="@+id/txtChartTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="环境光"
+            android:textColor="#FFFFFF"
+            android:layout_marginLeft="20dp"
+            android:textSize="23sp"/>
+
+    </LinearLayout>
+
+    <lecho.lib.hellocharts.view.LineChartView
+        android:id="@+id/chart"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="4dp"/>
+
+</LinearLayout>
