@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\11304\Desktop\SmartCar\app\libs\fastjson-1.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fbcf8415e32859b473b336e5ac6422ee69b1185b">
+        <dex dex="C:\Users\11304\Desktop\SmartCar\app\build\intermediates\pre-dexed\debug\fastjson-1.2.4_a22e657431fec914e7aaeddb07f22b3107a13fbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\11304\.android\build-cache\7752f678e22fb231115b359729782b9f0e3692cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\11304\Desktop\SmartCar\app\build\intermediates\pre-dexed\debug\classes_f47761f6a1fc3b2b74634692ec3f5fd122c7ee10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\11304\.android\build-cache\5ec86669977312829f3e14a870e122539e2bd459\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\11304\Desktop\SmartCar\app\build\intermediates\pre-dexed\debug\classes_5077524a7b8828ed57072be9d19982f123f867c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\11304\.android\build-cache\049c0221c7ff4b54a6ebf8296a22867363666fc9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\11304\Desktop\SmartCar\app\build\intermediates\pre-dexed\debug\classes_24007dc5caf13ec6e3b6462ac6986ebbc131083b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\11304\.android\build-cache\1d9eb0b3614ab6ec16d9165edc8c9480113d5e7c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\11304\Desktop\SmartCar\app\build\intermediates\pre-dexed\debug\classes_c1dd4395cdc58385f219475736e10dfbdc37849a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\11304\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.1\constraint-layout-solver-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="C:\Users\11304\Desktop\SmartCar\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.1_ba6ecf5886c5087635d429c5e3e830a5fc7cd1d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\11304\.android\build-cache\2cac18837a9079de3f507bde144f1772516f7911\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="838172f1d23787cc52bb558ef989605bc2aecf62">
+        <dex dex="C:\Users\11304\Desktop\SmartCar\app\build\intermediates\pre-dexed\debug\classes_21c9982a9dd5df4517475a9471508f29fb0ef818.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\11304\.android\build-cache\a87b2c5692bc149368bf883c7d339a7b64dcf84d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\11304\Desktop\SmartCar\app\build\intermediates\pre-dexed\debug\classes_73cd51a10db967e56e4d2fd4e60a5bb4eff43940.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\11304\Desktop\SmartCar\app\libs\com.baidu.tts_2.3.2.20180713_6101c2a.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6f76dfd8a02582d7b17208aa201b072703933ce4">
+        <dex dex="C:\Users\11304\Desktop\SmartCar\app\build\intermediates\pre-dexed\debug\com.baidu.tts_2.3.2.20180713_6101c2a_4efd40c2f2808d2a3cdc1470321e13f2b27f13d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\11304\.android\build-cache\c467622aedf9ed2216126c8caf92f1489d321ed0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\11304\Desktop\SmartCar\app\build\intermediates\pre-dexed\debug\classes_4632f734aea73ba040d5e57a4c6aa0ca5317e3f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\11304\.android\build-cache\8bd82735e8b7afe4059e64f13e9b1b6de5627160\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\11304\Desktop\SmartCar\app\build\intermediates\pre-dexed\debug\classes_5883030ffad2e43bb876621138ffb3ed0ac7fbb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\11304\.android\build-cache\23de5519d799f39635ee9b0665087e95f909a325\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="C:\Users\11304\Desktop\SmartCar\app\build\intermediates\pre-dexed\debug\classes_82fc27152460924cf634d6edead9009ad65813bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\11304\.android\build-cache\3a8089f72c83071b5f728b3a6d92c0a9d4dd3ccb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\11304\Desktop\SmartCar\app\build\intermediates\pre-dexed\debug\classes_6478f280a9b0e52ce46891e396133f1fbb0b69b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\11304\.android\build-cache\610c6e17783f1623e435b2d5a606049851ed7550\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\11304\Desktop\SmartCar\app\build\intermediates\pre-dexed\debug\classes_979bd4599f547d3770acb8a46cb87451f2bd4ff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\11304\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\11304\Desktop\SmartCar\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_c94677731298ce4cc679d2f9c9a24a8e06d91ffc.jar" />
+    </item>
+
+</items>
